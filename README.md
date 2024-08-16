@@ -1,4 +1,4 @@
-<h2 align="center">Hey👋. . . My name is Wajiha Ansari and I am a passionate full-stack developer from Pakistan</h2>
+<h2 align="center">Hey👋. . . My name is Wajiha Ansari I'am Passionate full-stack developer building robust web applications with PHP and diving into Laravel to enhance my backend skills. I specialize in creating custom WordPress themes and efficiently manage MySQL databases. Continuously learning and growing, I'm dedicated to delivering high-quality code and innovative solutions.</h2>
 
 ###
 
