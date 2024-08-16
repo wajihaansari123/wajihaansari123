@@ -1,4 +1,4 @@
-<h2 align="left">Hey👋. . . My name is Wajiha Ansari and I am a passionate full-stack developer from Pakistan</h2>
+<h2 align="center">Hey👋. . . My name is Wajiha Ansari and I am a passionate full-stack developer from Pakistan</h2>
 
 ###
 
